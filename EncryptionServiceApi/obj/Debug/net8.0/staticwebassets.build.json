@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a/EMYOvRxMRMk245omLZa82ts3ELIwUCpo0OYscIpGg=",
+  "Source": "EncryptionServiceApi",
+  "BasePath": "_content/EncryptionServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
